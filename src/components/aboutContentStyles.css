@@ -28,7 +28,7 @@
     align-items: center;
 }
 
-@media screen and (max-width:640px) {
+@media screen and (max-width:800px) {
     .about-container h1{
         padding: 3rem 0 1rem 2rem;
         
