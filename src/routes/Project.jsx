@@ -11,7 +11,7 @@ function Project() {
       heading="PROJECTS"
       text="Some of my recent work."
     />
-    <ProjectCard />
+    <ProjectCard size={10}/>
     <Footer />
    </div>
   );

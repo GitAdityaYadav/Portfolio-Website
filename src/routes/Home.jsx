@@ -8,7 +8,7 @@ function Home() {
     <div>
     <Navbar/>
    <HeroImg />
-   <ProjectCard/>
+   <ProjectCard size={3} />
    <Footer/>
     </div>
    
